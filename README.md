@@ -1,4 +1,4 @@
-# Cross-Site-Request-Forgery-CSRF-
+# Cross-Site-Request-Forgery-CSRF
 # Content-Type change
 
 According to this, in order to avoid preflight requests using POST method these are the allowed Content-Type values:
