@@ -57,7 +57,7 @@ GET using HTML tags
 
 
 Other HTML5 tags that can be used to automatically send a GET request are:
-
+![alt tag](https://github.com/abdul9255/Cross-Site-Request-Forgery-CSRF/blob/main/1.png)
 
 
 # Form GET request
